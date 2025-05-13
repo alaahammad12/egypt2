@@ -1,0 +1,59 @@
+body {
+    background-color: peachpuff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: saddlebrown;
+}
+
+p {
+    color: saddlebrown;
+}
+
+a {
+    color: slateblue;
+}
+
+nav ul {
+    background-color: sandybrown;
+    border: 2px solid seashell;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+    color: papayawhip;
+    margin: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(146, 86, 86);
+}
+
+img {
+    border-radius: 30px;
+}
+
+table,
+th,
+td {
+    border: 1px solid rgb(158, 112, 72);
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 5px;
+    text-align: left;
+    vertical-align: top;
+    color: rgb(170, 66, 66);
+}
+
+tr {
+    background-color: palegoldenrod;
+}
